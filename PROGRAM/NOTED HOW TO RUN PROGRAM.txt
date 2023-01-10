@@ -1,0 +1,11 @@
+Cara Menjalankan Aplikasi Sistem Informasi Rumah Sakit :
+
+1. Memiliki XAMPP dan JavaFx atau NeatBeans.
+2. Masuk ke localhost/phpmyadmin database pada browser.
+3. Buat database dengan nama "rumah_sakit" tanpa tanda petik.
+4. Import data database dengan file rumah_sakit.sql pada folder SQL.
+5. Jalankan APK di dalam folder "APK/dist/APK_TUBES_BASDAT.ExeJarFile"
+6. Selamat menggunakan aplikasi Sistem Informasi Rumah Sakit.
+
+Note : 
+FOREIGN KEY MEMPENGARUHI DALAM PENGHAPUSAN DATA
